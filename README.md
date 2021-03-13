@@ -1,8 +1,8 @@
 # SANS Top 25 List
 
-1. [Failure to preserve web page structure (Cross-site scripting)]
-1. [Improper sanitization of special elements used in a SQL command (SQL injection)]
-3.Buffer copy without checking the size of input (Classic buffer overflow)
+1. Failure to preserve web page structure (Cross-site scripting)
+1. Improper sanitization of special elements used in a SQL command (SQL injection)
+3. Buffer copy without checking the size of input (Classic buffer overflow)
 4.Cross-site request forgery
 5.Improper access control (Authorization)
 6.Reliance on untrusted inputs in a security decision
